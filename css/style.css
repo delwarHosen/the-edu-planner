@@ -1,0 +1,14 @@
+.link-icon a {
+    color: white;
+    font-size: 30px;
+    margin: 12px;
+}
+
+.institute-bg {
+    background-color: rgb(225, 236, 236);
+}
+
+.link-button {
+    background-color: tomato;
+    font-weight: 700;
+}
